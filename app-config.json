@@ -10,6 +10,8 @@
   "message_en": "A newer version of RadioLink GNGTEC is available. Please update from Google Play to continue.",
   "message_bn": "রেডিওলিঙ্ক অ্যাপের নতুন ভার্সন এসেছে। ব্যবহার চালিয়ে যেতে গুগল প্লে থেকে আপডেট করুন।",
   "primary_relay_url": "https:\/\/wakitoki-sarver-file.onrender.com\/",
-  "backup_relay_urls": [],
-  "updated_at_ms": 1795554756582
+  "backup_relay_urls": [
+    "https:\/\/radiolink-backup-v2.onrender.com\/"
+  ],
+  "updated_at_ms": 1795554766212
 }
