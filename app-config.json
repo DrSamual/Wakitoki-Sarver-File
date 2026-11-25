@@ -1,6 +1,6 @@
 {
   "min_version_code": 1,
-  "latest_version_code": 3,
+  "latest_version_code": 2,
   "latest_version_name": "3.0.0",
   "force_update": true,
   "block_offline_after_notice": true,
