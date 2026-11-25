@@ -2,7 +2,7 @@
   "min_version_code": 1,
   "latest_version_code": 3,
   "latest_version_name": "3.0.0",
-  "force_update": false,
+  "force_update": true,
   "block_offline_after_notice": true,
   "play_store_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.radiolink.gngtec",
   "title_en": "Update Required",
